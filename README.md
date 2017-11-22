@@ -1,0 +1,2 @@
+# safelink
+my safelink
